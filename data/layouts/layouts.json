@@ -4410,6 +4410,26 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_GRASSY_AREA1",
+      "name": "GrassyArea1_Layout",
+      "width": 22,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/GrassyArea1/border.bin",
+      "blockdata_filepath": "data/layouts/GrassyArea1/map.bin"
+    },
+    {
+      "id": "LAYOUT_GRASSY_AREA2",
+      "name": "GrassyArea2_Layout",
+      "width": 22,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/GrassyArea2/border.bin",
+      "blockdata_filepath": "data/layouts/GrassyArea2/map.bin"
     }
   ]
 }
